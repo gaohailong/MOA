@@ -69,7 +69,7 @@ bin/moa.bat
 
 Note:窗口顶部显示的命令行文本框表示可用于在命令行上运行任务的文本命令。可以选择文本，然后将其复制到剪贴板上。在GUI的底部有一个结果的图形显示。可以比较两个不同任务的结果：当前任务显示为红色，先前选定的任务显示为蓝色。
 
-![example](/Users/gaohailong/Documents/翻译文件/MOA/images/example.png)
+![example](./images/example.png)
 
 ### 分类图形用户界面
 

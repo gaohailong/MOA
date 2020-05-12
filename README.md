@@ -86,7 +86,7 @@ Note:窗口顶部显示的命令行文本框表示可用于在命令行上运行
 
 这些要求适用于重复循环：
 
-![DataStream-Cycle](/Users/gaohailong/Documents/翻译文件/MOA/images/DataStream-Cycle.png)
+![DataStream-Cycle](./images/DataStream-Cycle.png)
 
 1、该算法通过流中的下一个可用示例（要求1）。
 
@@ -217,7 +217,7 @@ java -cp moa.jar -javaagent:sizeofag-1.0.0.jar moa.DoTask \
 
 [Census Dataset](http://www.cs.waikato.ac.nz/~bernhard/halifax17/census.arff.gz)
 
-![Tutorial1-Regression](/Users/gaohailong/Documents/翻译文件/MOA/images/Tutorial1-Regression.png)
+![Tutorial1-Regression](./images/Tutorial1-Regression.png)
 
 #### 练习答案
 
@@ -786,7 +786,7 @@ EvaluatePrequential -l bayes.NaiveBayes -s (ConceptDriftStream -s (gen- erators.
 
 图11显示了示例2的结果。请注意，在偏移之后，准确度急剧下降。
 
-![fig11-676x549](/Users/gaohailong/Documents/翻译文件/MOA/images/fig11-676x549.png)
+![fig11-676x549](./images/fig11-676x549.png)
 
 Figure 11: Example 2 results. The solid red line indicate the abrupt drift location.
 

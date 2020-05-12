@@ -6,7 +6,7 @@
 
     java -cp moa.jar -javaagent:sizeofag.jar moa.gui.GUI
 
-![example-blank](./images/example-blank.png)
+![example-blank](https://github.com/gaohailong/MOA/master/images/example-blank.png)
 
 3、单击“Configure”以设置任务，准备好后单击以启动任务单击“Run”。可以同时运行多个任务。单击列表中的不同任务，并使用下面的按钮控制它们。如果任务的文本输出可用，它将显示在GUI的中间，并可以保存到磁盘。
 
